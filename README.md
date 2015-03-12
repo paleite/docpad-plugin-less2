@@ -1,4 +1,4 @@
-# less2 Plugin for [DocPad](http://docpad.org)
+# Less 2 Plugin for [DocPad](http://docpad.org)
 
 <!-- BADGES/ -->
 
@@ -7,18 +7,13 @@
 [![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-less2.svg)](https://npmjs.org/package/docpad-plugin-less2 "View this project on NPM")
 [![Dependency Status](https://img.shields.io/david/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2)
 [![Dev Dependency Status](https://img.shields.io/david/dev/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2#info=devDependencies)<br/>
-[![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
-[![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
-[![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a "Donate once-off to this project using BitCoin")
-[![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
 
 <!-- /BADGES -->
 
 
-Uppercase your text document's content by adding either the `uc` or `uppercase` extension to it
+Render your less-files by adding `less` extension to it
 
-Convention:  `.txt.(uc|uppercase)`
+Convention:  `.*.less`
 
 
 
@@ -64,12 +59,6 @@ These amazing people are maintaining this project:
 ### Sponsors
 
 No sponsors yet! Will you be the first?
-
-[![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
-[![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
-[![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a "Donate once-off to this project using BitCoin")
-[![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
 
 ### Contributors
 
