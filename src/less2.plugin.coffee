@@ -1,7 +1,7 @@
 # Export Plugin
 module.exports = (BasePlugin) ->
 	# Define Plugin
-	class less2Plugin extends BasePlugin
+	class Less2Plugin extends BasePlugin
 		# Plugin name
 		name: 'less2'
 
