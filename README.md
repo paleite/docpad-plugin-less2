@@ -33,7 +33,6 @@ docpad install less2
 <!-- /INSTALL -->
 
 
-
 <!-- HISTORY/ -->
 
 ## History
@@ -76,7 +75,8 @@ No sponsors yet! Will you be the first?
 
 These amazing people have contributed code to this project:
 
-- [balupton](https://github.com/balupton) — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=balupton)
+- [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=balupton)
+- [Patrick Aleite](https://github.com/paleite) <paleite@kth.se> — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=paleite)
 - [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=RobLoach)
 
 [Become a contributor!](https://github.com/paleite/docpad-plugin-less2/blob/master/CONTRIBUTING.md#files)
@@ -88,9 +88,13 @@ These amazing people have contributed code to this project:
 
 ## License
 
-Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+Unless stated otherwise all works are:
 
-Copyright &copy; Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
+- Copyright &copy; Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
+
+and licensed under:
+
+- The incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT License](http://opensource.org/licenses/mit-license.php)
 
 <!-- /LICENSE -->
 

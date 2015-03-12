@@ -30,8 +30,8 @@
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
-    "paleite (https://github.com/paleite)",
-    "balupton (https://github.com/balupton)",
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)",
+    "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
     "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {
@@ -47,7 +47,9 @@
   "peerDependencies": {
     "docpad": "6"
   },
-  "dependencies": {},
+  "dependencies": {
+    "less": "2.*"
+  },
   "devDependencies": {
     "docpad": "6",
     "coffee-script": "^1.9.1",
