@@ -1,16 +1,16 @@
 {
-  "name": "docpad-plugin-yourpluginname",
+  "name": "docpad-plugin-less2",
   "version": "2.0.0",
-  "description": "DocPad plugin that adds the ability to render Something to Something Else",
-  "homepage": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname",
+  "description": "DocPad plugin that adds the ability to render Less to CSS",
+  "homepage": "https://github.com/paleite/docpad-plugin-less2",
   "license": {
     "type": "MIT"
   },
   "keywords": [
     "docpad",
     "docpad-plugin",
-    "something",
-    "somethingelse"
+    "less",
+    "less2"
   ],
   "badges": {
     "travis": true,
@@ -24,21 +24,22 @@
     "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
     "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
   },
-  "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
+  "author": "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
   "maintainers": [
-    "Your name <your email> (your github url)",
+    "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
+    "paleite (https://github.com/paleite)",
     "balupton (https://github.com/balupton)",
     "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {
-    "url": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname/issues"
+    "url": "https://github.com/paleite/docpad-plugin-less2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourgithubusername/docpad-plugin-yourpluginname.git"
+    "url": "https://github.com/paleite/docpad-plugin-less2.git"
   },
   "engines": {
     "node": ">=0.8"
@@ -52,9 +53,9 @@
     "coffee-script": "^1.9.1",
     "projectz": "^0.5.0"
   },
-  "main": "./out/yourpluginname.plugin.js",
+  "main": "./out/less2.plugin.js",
   "scripts": {
-    "test": "node ./out/yourpluginname.test.js"
+    "test": "node ./out/less2.test.js"
   },
   "cakeConfiguration": {
     "COFFEE_SRC_PATH": "src"

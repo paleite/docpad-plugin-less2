@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# docpad-plugin-less2
-=======
-# YourPluginName Plugin for [DocPad](http://docpad.org)
+# less2 Plugin for [DocPad](http://docpad.org)
 
 <!-- BADGES/ -->
 
-[![Build Status](https://img.shields.io/travis/docpad/docpad-plugin-yourpluginname/master.svg)](http://travis-ci.org/docpad/docpad-plugin-yourpluginname "Check this project's build status on TravisCI")
-[![NPM version](https://img.shields.io/npm/v/docpad-plugin-yourpluginname.svg)](https://npmjs.org/package/docpad-plugin-yourpluginname "View this project on NPM")
-[![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-yourpluginname.svg)](https://npmjs.org/package/docpad-plugin-yourpluginname "View this project on NPM")
-[![Dependency Status](https://img.shields.io/david/docpad/docpad-plugin-yourpluginname.svg)](https://david-dm.org/docpad/docpad-plugin-yourpluginname)
-[![Dev Dependency Status](https://img.shields.io/david/dev/docpad/docpad-plugin-yourpluginname.svg)](https://david-dm.org/docpad/docpad-plugin-yourpluginname#info=devDependencies)<br/>
+[![Build Status](https://img.shields.io/travis/paleite/docpad-plugin-less2/master.svg)](http://travis-ci.org/paleite/docpad-plugin-less2 "Check this project's build status on TravisCI")
+[![NPM version](https://img.shields.io/npm/v/docpad-plugin-less2.svg)](https://npmjs.org/package/docpad-plugin-less2 "View this project on NPM")
+[![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-less2.svg)](https://npmjs.org/package/docpad-plugin-less2 "View this project on NPM")
+[![Dependency Status](https://img.shields.io/david/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2)
+[![Dev Dependency Status](https://img.shields.io/david/dev/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2#info=devDependencies)<br/>
 [![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
 [![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
 [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
@@ -30,7 +27,7 @@ Convention:  `.txt.(uc|uppercase)`
 ## Install
 
 ``` bash
-docpad install yourpluginname
+docpad install less2
 ```
 
 <!-- /INSTALL -->
@@ -40,7 +37,7 @@ docpad install yourpluginname
 <!-- HISTORY/ -->
 
 ## History
-[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/docpad/docpad-plugin-yourpluginname/blob/master/HISTORY.md#files)
+[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/paleite/docpad-plugin-less2/blob/master/HISTORY.md#files)
 
 <!-- /HISTORY -->
 
@@ -49,7 +46,7 @@ docpad install yourpluginname
 
 ## Contribute
 
-[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/docpad/docpad-plugin-yourpluginname/blob/master/CONTRIBUTING.md#files)
+[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/paleite/docpad-plugin-less2/blob/master/CONTRIBUTING.md#files)
 
 <!-- /CONTRIBUTE -->
 
@@ -62,7 +59,7 @@ docpad install yourpluginname
 
 These amazing people are maintaining this project:
 
-- Your name <your email> (your github url)
+- Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
 - Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)
 
 ### Sponsors
@@ -79,10 +76,10 @@ No sponsors yet! Will you be the first?
 
 These amazing people have contributed code to this project:
 
-- [balupton](https://github.com/balupton) — [view contributions](https://github.com/docpad/docpad-plugin-yourpluginname/commits?author=balupton)
-- [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/docpad/docpad-plugin-yourpluginname/commits?author=RobLoach)
+- [balupton](https://github.com/balupton) — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=balupton)
+- [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=RobLoach)
 
-[Become a contributor!](https://github.com/docpad/docpad-plugin-yourpluginname/blob/master/CONTRIBUTING.md#files)
+[Become a contributor!](https://github.com/paleite/docpad-plugin-less2/blob/master/CONTRIBUTING.md#files)
 
 <!-- /BACKERS -->
 
@@ -93,9 +90,8 @@ These amazing people have contributed code to this project:
 
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
 
-Copyright &copy; Copyright holders name <copyright holder's email> (copyright holder's website url)
+Copyright &copy; Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
 
 <!-- /LICENSE -->
 
 
->>>>>>> 5ef3fdd4513b47916375ff9b70131daa8fcf5721
