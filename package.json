@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-less2",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "DocPad plugin that adds the ability to render Less to CSS",
   "homepage": "https://github.com/paleite/docpad-plugin-less2",
   "license": {
