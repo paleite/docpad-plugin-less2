@@ -7,6 +7,8 @@ module.exports = (BasePlugin) ->
 
 		# Plugin config
 		config:
+#			lessOptions:
+#				compress: false
 			environments:
 				development:
 					compress: false

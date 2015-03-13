@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-less2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "DocPad plugin that adds the ability to render Less to CSS",
   "homepage": "https://github.com/paleite/docpad-plugin-less2",
   "license": {
@@ -17,12 +17,7 @@
     "npm": true,
     "npmdownloads": true,
     "david": true,
-    "daviddev": true,
-    "gratipay": "docpad",
-    "flattr": "344188/balupton-on-Flattr",
-    "paypal": "QB8GQPZAH84N6",
-    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
-    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
+    "daviddev": true
   },
   "author": "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
   "maintainers": [
@@ -48,7 +43,7 @@
     "docpad": "6"
   },
   "dependencies": {
-    "less": "2.*"
+    "less": "^2.4.0"
   },
   "devDependencies": {
     "docpad": "6",
@@ -61,5 +56,8 @@
   },
   "cakeConfiguration": {
     "COFFEE_SRC_PATH": "src"
+  },
+  "directories": {
+    "test": "test"
   }
 }

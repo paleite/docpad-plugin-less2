@@ -8,6 +8,7 @@
 [![Dependency Status](https://img.shields.io/david/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2)
 [![Dev Dependency Status](https://img.shields.io/david/dev/paleite/docpad-plugin-less2.svg)](https://david-dm.org/paleite/docpad-plugin-less2#info=devDependencies)<br/>
 
+
 <!-- /BADGES -->
 
 
@@ -59,6 +60,8 @@ These amazing people are maintaining this project:
 ### Sponsors
 
 No sponsors yet! Will you be the first?
+
+
 
 ### Contributors
 
