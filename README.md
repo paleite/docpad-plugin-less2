@@ -29,6 +29,34 @@ docpad install less2
 <!-- /INSTALL -->
 
 
+<!-- PLUGINS/ -->
+
+## Plugins
+
+To run a Less-plugin, you need to install it via npm first.
+
+Example
+
+``` bash
+npm install -g less-plugin-autoprefix
+npm install -g less-plugin-clean-css
+```
+
+Then you can specify your options in your docpad.coffe like so:
+
+```
+plugins:
+	less2:
+		lessPlugins:
+			'less-plugin-autoprefix':
+				browsers: ['last 2 versions']
+			'less-plugin-clean-css':
+				null
+```
+
+<!-- /PLUGINS -->
+
+
 <!-- HISTORY/ -->
 
 ## History

@@ -7,8 +7,9 @@ module.exports = (BasePlugin) ->
 
 		# Plugin config
 		config:
-#			lessOptions:
-#				compress: false
+			lessOptions:
+				lessPlugins:
+					null
 			environments:
 				development:
 					compress: false
@@ -40,6 +41,12 @@ module.exports = (BasePlugin) ->
 
 				# Extend
 				((lessOptions[key] = value) for own key,value of config.lessOptions) if config.lessOptions
+				
+				# Load plugins
+				loadedLessPlugins = []
+				for pluginName, pluginOptions of lessOptions.lessPlugins
+					loadedLessPlugins.push(new (require(pluginName))(pluginOptions))
+				lessOptions.plugins = loadedLessPlugins
 
 				# Render
 				@less.render(opts.content, lessOptions).then ((output) ->
