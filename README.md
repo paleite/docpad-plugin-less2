@@ -47,7 +47,7 @@ Then you can specify your options in your docpad.coffe like so:
 ```
 plugins:
 	less2:
-		lessPlugins:
+		plugins:
 			'less-plugin-autoprefix':
 				browsers: ['last 2 versions']
 			'less-plugin-clean-css':
