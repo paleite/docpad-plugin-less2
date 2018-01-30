@@ -5,7 +5,7 @@
 
 Unless stated otherwise all works are:
 
-- Copyright &copy; Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
+- Copyright &copy; Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)
 
 and licensed under:
 

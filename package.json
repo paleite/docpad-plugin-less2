@@ -19,14 +19,14 @@
     "david": true,
     "daviddev": true
   },
-  "author": "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
+  "author": "Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)",
   "maintainers": [
-    "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
+    "Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)",
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)",
-    "Patrick Aleite <paleite@kth.se> (https://github.com/paleite)",
+    "Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)",
     "RobLoach (https://github.com/RobLoach)"
   ],
   "bugs": {

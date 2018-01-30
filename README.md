@@ -82,7 +82,7 @@ plugins:
 
 These amazing people are maintaining this project:
 
-- Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
+- Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)
 - Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)
 
 ### Sponsors
@@ -96,7 +96,7 @@ No sponsors yet! Will you be the first?
 These amazing people have contributed code to this project:
 
 - [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=balupton)
-- [Patrick Aleite](https://github.com/paleite) <paleite@kth.se> — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=paleite)
+- [Patrick Eriksson](https://github.com/paleite) <paleite@kth.se> — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=paleite)
 - [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/paleite/docpad-plugin-less2/commits?author=RobLoach)
 
 [Become a contributor!](https://github.com/paleite/docpad-plugin-less2/blob/master/CONTRIBUTING.md#files)
@@ -110,7 +110,7 @@ These amazing people have contributed code to this project:
 
 Unless stated otherwise all works are:
 
-- Copyright &copy; Patrick Aleite <paleite@kth.se> (https://github.com/paleite)
+- Copyright &copy; Patrick Eriksson <paleite@kth.se> (https://github.com/paleite)
 
 and licensed under:
 
